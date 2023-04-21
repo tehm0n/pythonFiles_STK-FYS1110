@@ -25,6 +25,7 @@ medianX = np.empty(shape=(10000,5))
 i = 0
 
 # Small change here
+# Change #3 here
 
 # Genererer 1000 datasett hver av størrelse n=5,10,20,30, beregner gjennomsnitt og
 # median for hvert av datasettene, og tegner histogram som viser fordelingene til disse:
